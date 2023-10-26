@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_evaluation/static/css/main.6493e7f2.css",
+    "main.js": "/react_evaluation/static/js/main.ec120a18.js",
+    "index.html": "/react_evaluation/index.html",
+    "main.6493e7f2.css.map": "/react_evaluation/static/css/main.6493e7f2.css.map",
+    "main.ec120a18.js.map": "/react_evaluation/static/js/main.ec120a18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6493e7f2.css",
+    "static/js/main.ec120a18.js"
+  ]
+}
